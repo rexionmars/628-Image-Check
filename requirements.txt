@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+tensorflow[and-cuda]
+scikit-learn
+scikit-image
